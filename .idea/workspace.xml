@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97433414-2e00-4704-acc7-91402b0698ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment3/assignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BFS/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BFS/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/InOrder/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/InOrder/binarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/InOrder/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuyAndSell/StackPrices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +40,8 @@
     "Application.BFS (1).executor": "Run",
     "Application.BFS.executor": "Run",
     "Application.Main.executor": "Debug",
-    "Application.RotateArray.executor": "Run",
+    "Application.RotateArray.executor": "Debug",
+    "Application.StockPrices.executor": "Debug",
     "Application.assignment3.executor": "Run",
     "Application.binarySearchTree.executor": "Run",
     "Application.main.executor": "Run",
@@ -68,7 +63,7 @@
       <recent name="BFS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RotateArray">
+  <component name="RunManager">
     <configuration name="BFS (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BFS" />
       <module name="lab1b" />
@@ -127,7 +122,7 @@
       <workItem from="1714785686907" duration="1647000" />
       <workItem from="1715039332800" duration="7457000" />
       <workItem from="1715900037816" duration="1959000" />
-      <workItem from="1717581462405" duration="1397000" />
+      <workItem from="1717581462405" duration="4171000" />
     </task>
     <servers />
   </component>
@@ -169,13 +164,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/rotation/RotateArray.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="48" />
+          <line>34</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/rotation/RotateArray.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="51" />
+          <url>file://$PROJECT_DIR$/src/BuyAndSell/StackPrices.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/BFS/BFS.java</url>
@@ -191,6 +186,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/rotation/RotateArray.java</url>
+          <line>4</line>
+          <properties class="RotateArray" method="moveZerosToLeft">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BuyAndSell/StackPrices.java</url>
+          <line>46</line>
+          <properties class="StockPrices" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
