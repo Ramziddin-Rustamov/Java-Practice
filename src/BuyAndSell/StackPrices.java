@@ -25,6 +25,7 @@ class StockPrices {
 
             int globalProfit =  globalSell-currentBuy;
             int currentProfit =Integer.MIN_VALUE;
+//            comment
 
             for (int i = 0; i < stackNums.length; i++)
             {
@@ -34,6 +35,8 @@ class StockPrices {
                     globalProfit = currentProfit;
                     globalSell = stackNums[i];
                 }
+
+
 
                 if(currentBuy > stackNums[i])
                 {
