@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97433414-2e00-4704-acc7-91402b0698ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pointers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pointers/RemoveNthLastNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pointers/SumOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/isPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +46,7 @@
     "Application.Main.executor": "Run",
     "Application.RotateArray.executor": "Debug",
     "Application.StockPrices.executor": "Debug",
+    "Application.SumOfThree.executor": "Run",
     "Application.assignment3.executor": "Run",
     "Application.binarySearchTree.executor": "Run",
     "Application.main.executor": "Run",
@@ -174,6 +177,16 @@
           <line>16</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/LinkedList.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/BFS/BFS.java</url>
           <line>3</line>
@@ -206,6 +219,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/LinkedList/LinkedList.java</url>
+          <line>49</line>
+          <properties class="LinkedList.LinkedList" method="reverse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
