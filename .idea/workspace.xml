@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97433414-2e00-4704-acc7-91402b0698ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pointers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pointers/RemoveNthLastNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pointers/SumOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pointers/SortColors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,10 +38,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BFS (1).executor": "Run",
-    "Application.BFS.executor": "Run",
+    "Application.BFS.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.RemoveNthLastNode.executor": "Run",
     "Application.RotateArray.executor": "Debug",
+    "Application.SortColors.executor": "Debug",
     "Application.StockPrices.executor": "Debug",
+    "Application.Stream.executor": "Run",
     "Application.SumOfThree.executor": "Run",
     "Application.assignment3.executor": "Run",
     "Application.binarySearchTree.executor": "Run",
@@ -60,6 +59,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/lab1b/src/Main.java",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,9 +98,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BFS" />
         <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.BFS (1)" />
-        <item itemvalue="Application.BFS" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +128,8 @@
       <workItem from="1715039332800" duration="7457000" />
       <workItem from="1715900037816" duration="1959000" />
       <workItem from="1717581462405" duration="4489000" />
+      <workItem from="1718393515782" duration="837000" />
+      <workItem from="1718581375532" duration="297000" />
     </task>
     <servers />
   </component>
@@ -187,6 +189,11 @@
           <line>18</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pointers/SortColors.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/BFS/BFS.java</url>
           <line>3</line>
@@ -228,6 +235,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Pointers/SortColors.java</url>
+          <line>5</line>
+          <properties class="SortColors" method="sortColors">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
