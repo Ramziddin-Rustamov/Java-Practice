@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97433414-2e00-4704-acc7-91402b0698ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SlidingWindow/SlidingWindowExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,34 +36,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BFS (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.BFS.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveNthLastNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateArray.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SortColors.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.StockPrices.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Stream.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfThree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.assignment3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.binarySearchTree.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/lab1b/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BFS (1).executor": "Run",
+    "Application.BFS.executor": "Debug",
+    "Application.LinkedListCycle.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.RemoveNthLastNode.executor": "Run",
+    "Application.RotateArray.executor": "Debug",
+    "Application.SlidingWindowExample.executor": "Debug",
+    "Application.SortColors.executor": "Debug",
+    "Application.StockPrices.executor": "Debug",
+    "Application.Stream.executor": "Run",
+    "Application.SumOfThree.executor": "Run",
+    "Application.assignment3.executor": "Run",
+    "Application.binarySearchTree.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/lab1b/src/Main.java",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="BFS" />
@@ -131,7 +133,9 @@
       <workItem from="1717581462405" duration="4489000" />
       <workItem from="1718393515782" duration="837000" />
       <workItem from="1718581375532" duration="3751000" />
-      <workItem from="1718911057251" duration="346000" />
+      <workItem from="1718911057251" duration="1546000" />
+      <workItem from="1720139040689" duration="412000" />
+      <workItem from="1720349395506" duration="1857000" />
     </task>
     <servers />
   </component>
@@ -196,6 +200,16 @@
           <line>27</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SlidingWindow/SlidingWindowExample.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SlidingWindow/SlidingWindowExample.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/BFS/BFS.java</url>
           <line>3</line>
@@ -246,6 +260,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SlidingWindow/SlidingWindowExample.java</url>
+          <line>2</line>
+          <properties class="SlidingWindow.SlidingWindowExample" method="maxSumSubarray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
